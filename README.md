@@ -12,12 +12,20 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 # Projeto Zoo-Functions
   `Olá, seja bem vindo(a) ao projeto zoo-functions!`
 --- 
+## DESCRIÇÃO DO PROJETO:
+`EM CONSTRUÇÃO`
+1. Em construção
+    * XXXXX  
+2. Em Construção
+    * XXXXX
+---
+
 ## SUMÁRIO
   - [Descrição do projeto](#descrição-do-projeto)
   - [Habilidades](#habilidades)
+  - [Instruções](#instruções)
   - [Desenvolvimento](#desenvolvimento)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
-  - [Instruções](#instruções)
   - [Status](#status)
   - [Desempenho](#desempenho)
   - [Observações](#observações)
@@ -26,15 +34,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
   ---
 
-### DESCRIÇÃO DO PROJETO:
-`EM CONSTRUÇÃO`
-1. Em construção
-    * XXXXX  
-2. Em Construção
-    * XXXXX
-
 ### HABILIDADES:
-`EM CONSTRUÇÃO`
 
 Neste projeto, aplicamos de forma prática as habilidaes adquiridas referênte ao conteúdo de ES6 e Higher Order Functions!
 
@@ -45,57 +45,93 @@ O desafio era:
 - Aprender a usar de forma conjunta as _Higher Order Functions_
 - Interpretar testes unitários e produzir soluções que atendam a eles.
 
-
-### DESENVOLVIMENTO:
-`EM CONSTRUÇÃO`
-
-### TECNOLOGIAS UTILIZADAS:
-`EM CONSTRUÇÃO`
-
-1. Em construnção 
-    * `Em construção`
-    * `Em construção`
-
-2. Em construção
-    * `Em construção`
-    * `Em construção`
-
-
 ### INSTRUÇÕES:
 `EM CONSTRUÇÃO`
 1. Clone do repositório
-    * `git clone https://github.com/walacenascimento/project-zoo-functions`.
-  
-* Entre na pasta do repositório:
-    * `cd walacenascimento/project-zoo-functions`
+    * Link para clonar o repositório:
+```bash
+    https://github.com/walacenascimento/project-zoo-functions
+```
 
-2. Instale as dependências
-    * `npm install`
+* Entrar na pasta do repositório:
+```bash
+    cd walacenascimento/project-zoo-functions
+```
+2. Instalar as dependências
+```bash
+    npm install
+```
+### DESENVOLVIMENTO:
+
+O projeto foi desenvolvido em um _template_ de uma aplicação **NodeJS** (esssa aplicação já veio no projeto, e foi fornecido pela Trybe).
+Basicamente o desenvolvimento foi implementar as funções e testes unitários de forma a satisfazer os requisitos listados na seção `requisitos do projeto`.
+
+A implementação das funções foram efetuadas dentro da pasta `src` e da pasta `tests` na raíz do projeto.
+A pasta `src` é composta pelo arquivo `zoo.js`, que contém as funções a serem implementadas, e o arquivo `data.js`, que armazena os dados que foram utilizados. Já a pasta `tests`, contém os testes unitários correspondentes a cada função do arquivo `zoo.js`.
+
+
+
+### TECNOLOGIAS UTILIZADAS:
+
+1. `JavaScript`
+
+2. `Jest`
+    * O **Jest** foi usado na implementação dos testes unitários
 
 ### STATUS:
-`EM CONSTRUÇÃO`
+* Finalizado `APROVADO`
 
 ### DESEMPENHO
-`EM CONSTRUÇÃO`
+* 85%
 
 ### OBSERVAÇÕES:
 `EM CONSTRUÇÃO`
 
 ### COLABORADOR:
 * Colaborador(es,as)
-    * `EM CONSTRUÇÃO`
+    * Este projeto foi desenvolvido individualmente por mim, `Walace Nascimento`
 
 ### REQUISITOS DO PROJETO:
 `EM CONSTRUÇÃO`
-1. em construção
-2. em construção
-3. em construção
-4. em construção
-5. em construção
-6. em construção
-7. em construção
-8. em construção
-9. em construção
-10. em construção
-11. em construção
+
+-[x] 1. IMPLEMENTE A FUNÇÃO getSpeciesByIds
+* Esta função é responsável pela busca das espécies de animais por id. Ela retorna um array contendo as espécies referentes aos ids passados como parâmetro, podendo receber um ou mais ids.
+
+-[] 2. IMPLEMENTE A FUNÇÃO getAnimalsOlderThan
+* Esta função, a partir do nome de uma espécie e uma idade mínima, verifica se todos os animais daquela espécie possuem a idade mínima especificada.
+
+-[] 3. IMPLEMENTE A FUNÇÃO getEmployeeByName
+* Esta função é responsável pela busca das pessoas colaboradoras através do primeiro ou do último nome delas
+em construção.
+
+-[] 4.IMPLEMENTE A FUNÇÃO createEmployee
+* A função, a partir de informações recebidas nos parâmetros, é capaz de criar um objeto equivalente ao de uma pessoa colaboradora, retornando-o.
+
+-[] 5.IMPLEMENTE A FUNÇÃO isManager
+* Verifica se uma pessoa colaboradora, a partir de seu id, ocupa cargo de gerência.
+
+-[] 6. IMPLEMENTE A FUNÇÃO addEmployee
+* A função irá adicionar uma nova pessoa colaboradora ao array `employees`, presente no arquivo `data.js`.
+
+-[] 7. IMPLEMENTE A FUNÇÃO countAnimals
+* Esta função é responsável por contabilizar a quantidade de animais.
+
+-[] 8. IMPLEMENTE A FUNÇÃO calculateEntry
+* A partir da quantidade de visitantes e a faixa etária de cada um, esta função é responsável por retornar o preço total a ser cobrado
+
+-[] 9. IMPLEMENTE A FUNÇÃO getAnimalMap
+* A função é responsável pelo mapeamento geográfico das espécies e seus animais, podendo ainda filtrá-los por ordem alfabética e gênero, por exemplo
+
+-[] 10. IMPLEMENTE A FUNÇÃO getSchedule
+* A função é responsável por disponibilizar as informações de horário para uma consulta, que pode querer ter acesso a todo o cronograma da semana ou apenas o cronograma de um dia específico
+
+-[] 11. IMPLEMENTE A FUNÇÃO getOldestFromFirstSpecies
+* A função busca por informações do animal mais velho da primeira espécie gerenciada pela pessoa colaboradora do parâmetro.
+
+-[] 12. IMPLEMENTE A FUNÇÃO increasePrices
+* A função é responsável por aumentar o preço das visitas, com base no valor de aumento recebido no parâmetro, em porcentagem.
+
+-[] 13. IMPLEMENTE A FUNÇÃO getEmployeeCoverage
+* A função é responsável por consultar as espécies pela qual a pessoa colaborada, recebida no parâmetro através de seu `id`, `firstName` ou `lastName`, é responsável.
+
 ---
