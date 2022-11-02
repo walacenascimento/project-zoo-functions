@@ -11,8 +11,8 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 # Projeto Zoo-Functions
   `Olá, seja bem vindo(a) ao projeto zoo-functions!`
---- 
-## DESCRIÇÃO:
+
+### DESCRIÇÃO:
 
 Neste projeto, aplicamos de forma prática as habilidaes adquiridas referênte ao conteúdo de ES6 e Higher Order Functions!
 
@@ -25,7 +25,7 @@ O desafio era:
 
 ---
 
-## SUMÁRIO
+### SUMÁRIO:
   - [Descrição](#descrição)
   - [Instruções](#instruções)
   - [Desenvolvimento](#desenvolvimento)
