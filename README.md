@@ -92,46 +92,45 @@ A pasta `src` é composta pelo arquivo `zoo.js`, que contém as funções a sere
     * Este projeto foi desenvolvido individualmente por mim, `Walace Nascimento`
 
 ### REQUISITOS DO PROJETO:
-`EM CONSTRUÇÃO`
 
--[x] 1. IMPLEMENTE A FUNÇÃO getSpeciesByIds
+- [X] 1. IMPLEMENTE A FUNÇÃO getSpeciesByIds
 * Esta função é responsável pela busca das espécies de animais por id. Ela retorna um array contendo as espécies referentes aos ids passados como parâmetro, podendo receber um ou mais ids.
 
--[x] 2. IMPLEMENTE A FUNÇÃO getAnimalsOlderThan
+- [x] 2. IMPLEMENTE A FUNÇÃO getAnimalsOlderThan
 * Esta função, a partir do nome de uma espécie e uma idade mínima, verifica se todos os animais daquela espécie possuem a idade mínima especificada.
 
--[x] 3. IMPLEMENTE A FUNÇÃO getEmployeeByName
+- [x] 3. IMPLEMENTE A FUNÇÃO getEmployeeByName
 * Esta função é responsável pela busca das pessoas colaboradoras através do primeiro ou do último nome delas
 em construção.
 
--[x] 4.IMPLEMENTE A FUNÇÃO createEmployee
+- [x] 4.IMPLEMENTE A FUNÇÃO createEmployee
 * A função, a partir de informações recebidas nos parâmetros, é capaz de criar um objeto equivalente ao de uma pessoa colaboradora, retornando-o.
 
--[x] 5.IMPLEMENTE A FUNÇÃO isManager
+- [x] 5.IMPLEMENTE A FUNÇÃO isManager
 * Verifica se uma pessoa colaboradora, a partir de seu id, ocupa cargo de gerência.
 
--[x] 6. IMPLEMENTE A FUNÇÃO addEmployee
+- [x] 6. IMPLEMENTE A FUNÇÃO addEmployee
 * A função irá adicionar uma nova pessoa colaboradora ao array `employees`, presente no arquivo `data.js`.
 
--[x] 7. IMPLEMENTE A FUNÇÃO countAnimals
+- [x] 7. IMPLEMENTE A FUNÇÃO countAnimals
 * Esta função é responsável por contabilizar a quantidade de animais.
 
--[x] 8. IMPLEMENTE A FUNÇÃO calculateEntry
+- [x] 8. IMPLEMENTE A FUNÇÃO calculateEntry
 * A partir da quantidade de visitantes e a faixa etária de cada um, esta função é responsável por retornar o preço total a ser cobrado.
 
--[ ] 9. IMPLEMENTE A FUNÇÃO getAnimalMap
+- [ ] 9. IMPLEMENTE A FUNÇÃO getAnimalMap
 * A função é responsável pelo mapeamento geográfico das espécies e seus animais, podendo ainda filtrá-los por ordem alfabética e gênero, por exemplo.
 
--[ ] 10. IMPLEMENTE A FUNÇÃO getSchedule
+- [ ] 10. IMPLEMENTE A FUNÇÃO getSchedule
 * A função é responsável por disponibilizar as informações de horário para uma consulta, que pode querer ter acesso a todo o cronograma da semana ou apenas o cronograma de um dia específico.
 
--[x] 11. IMPLEMENTE A FUNÇÃO getOldestFromFirstSpecies
+- [x] 11. IMPLEMENTE A FUNÇÃO getOldestFromFirstSpecies
 * A função busca por informações do animal mais velho da primeira espécie gerenciada pela pessoa colaboradora do parâmetro.
 
--[x] 12. IMPLEMENTE A FUNÇÃO increasePrices
+- [x] 12. IMPLEMENTE A FUNÇÃO increasePrices
 * A função é responsável por aumentar o preço das visitas, com base no valor de aumento recebido no parâmetro, em porcentagem.
 
--[x] 13. IMPLEMENTE A FUNÇÃO getEmployeeCoverage
+- [x] 13. IMPLEMENTE A FUNÇÃO getEmployeeCoverage
 * A função é responsável por consultar as espécies pela qual a pessoa colaborada, recebida no parâmetro através de seu `id`, `firstName` ou `lastName`, é responsável.
 
 ---
