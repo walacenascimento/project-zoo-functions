@@ -69,7 +69,8 @@ A pasta `src` é composta pelo arquivo `zoo.js`, que contém as funções a sere
 1. `JavaScript`
 
 2. `Jest`
-    * O **Jest** foi usado na implementação dos testes unitários
+    * Os teste unitários foram implementado em **Jest**
+    * Todos os testes foram implementado pela <a href="https://betrybe.com">**TRYBE**</a>
 
 ### STATUS:
 * Finalizado `APROVADO`
@@ -79,7 +80,7 @@ A pasta `src` é composta pelo arquivo `zoo.js`, que contém as funções a sere
 
 ### OBSERVAÇÕES:
 * Todos os arquivos desse projeto foram fornecidos pela <a href="https://betrybe.com">**TRYBE**</a>
-* Todos os arquivos de teste desse projeto foram fornecidos pela <a href="https://betrybe.com">**TRYBE**</a> 
+* Todos os arquivos de teste desse projeto foram fornecidos e implementados pela <a href="https://betrybe.com">**TRYBE**</a> 
 
 ### COLABORADOR:
 * Colaborador(es,as)
