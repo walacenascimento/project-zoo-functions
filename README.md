@@ -12,17 +12,21 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 # Projeto Zoo-Functions
   `Olá, seja bem vindo(a) ao projeto zoo-functions!`
 --- 
-## DESCRIÇÃO DO PROJETO:
-`EM CONSTRUÇÃO`
-1. Em construção
-    * XXXXX  
-2. Em Construção
-    * XXXXX
+## DESCRIÇÃO:
+
+Neste projeto, aplicamos de forma prática as habilidaes adquiridas referênte ao conteúdo de ES6 e Higher Order Functions!
+
+O desafio era:
+- Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6
+- Utilizar as _Higher Order Functions_ para manipular e criar arrays
+- Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado
+- Aprender a usar de forma conjunta as _Higher Order Functions_
+- Interpretar testes unitários e produzir soluções que atendam a eles.
+
 ---
 
 ## SUMÁRIO
-  - [Descrição do projeto](#descrição-do-projeto)
-  - [Habilidades](#habilidades)
+  - [Descrição](#descrição)
   - [Instruções](#instruções)
   - [Desenvolvimento](#desenvolvimento)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -34,19 +38,8 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
   ---
 
-### HABILIDADES:
-
-Neste projeto, aplicamos de forma prática as habilidaes adquiridas referênte ao conteúdo de ES6 e Higher Order Functions!
-
-O desafio era:
-- Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6
-- Utilizar as _Higher Order Functions_ para manipular e criar arrays
-- Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado
-- Aprender a usar de forma conjunta as _Higher Order Functions_
-- Interpretar testes unitários e produzir soluções que atendam a eles.
-
 ### INSTRUÇÕES:
-`EM CONSTRUÇÃO`
+
 1. Clone do repositório
     * Link para clonar o repositório:
 ```bash
@@ -82,10 +75,11 @@ A pasta `src` é composta pelo arquivo `zoo.js`, que contém as funções a sere
 * Finalizado `APROVADO`
 
 ### DESEMPENHO
-* 85%
+* `85%`
 
 ### OBSERVAÇÕES:
-`EM CONSTRUÇÃO`
+* Todos os arquivos desse projeto foram fornecidos pela **TRYBE**
+* Todos os arquivos de teste desse projeto foram fornecidos pela **TRYBE** 
 
 ### COLABORADOR:
 * Colaborador(es,as)
