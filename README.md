@@ -78,8 +78,8 @@ A pasta `src` é composta pelo arquivo `zoo.js`, que contém as funções a sere
 * `85%`
 
 ### OBSERVAÇÕES:
-* Todos os arquivos desse projeto foram fornecidos pela **TRYBE**
-* Todos os arquivos de teste desse projeto foram fornecidos pela **TRYBE** 
+* Todos os arquivos desse projeto foram fornecidos pela <a href="https://betrybe.com">**TRYBE**</a>
+* Todos os arquivos de teste desse projeto foram fornecidos pela <a href="https://betrybe.com">**TRYBE**</a> 
 
 ### COLABORADOR:
 * Colaborador(es,as)
