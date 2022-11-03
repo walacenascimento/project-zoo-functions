@@ -14,7 +14,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 ### DESCRIÇÃO:
 
-Neste projeto, aplicamos de forma prática as habilidaes adquiridas referênte ao conteúdo de ES6 e Higher Order Functions!
+Neste projeto, aplicamos de forma prática as habilidades adquiridas referênte ao conteúdo de ES6 e Higher Order Functions!
 
 O desafio era:
 - Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6
